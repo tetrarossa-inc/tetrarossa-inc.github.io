@@ -7,7 +7,7 @@
    
    <body>
       <?php
-     $x=$_POST["length"];
+      $x=$_POST["length"];
       $y=$_POST["width"];
       settype($x,"integer");
       settype($y,"integer");
