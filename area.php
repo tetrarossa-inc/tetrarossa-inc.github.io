@@ -13,6 +13,6 @@
       settype($y,"integer");
       $z=$x*$y;
       echo "The area of the rectangle with length = " . $x . " and width = " . $y . " is " . $z;
-      ?>
+      ?> 
    </body>
 </html>
