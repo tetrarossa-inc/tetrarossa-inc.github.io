@@ -1,3 +1,3 @@
 This is the official website for Tetrarossa Inc.
 
-Open tetrarossa-inc.github.io on your website.
+Open <a href="tetrarossa-inc.github.io">tetrarossa-inc.github.io</a> on your website.
